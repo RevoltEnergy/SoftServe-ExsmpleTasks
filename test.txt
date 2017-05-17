@@ -1,0 +1,32 @@
+HourlyWageEmployee
+5
+Jose Antonio de Cuervo
+20.1
+HourlyWageEmployee
+7
+Arthur Guinness
+18.3
+FixedPaymentEmployee
+3
+John Walker
+2780.3
+HourlyWageEmployee
+2
+Jim Beam
+15.53
+FixedPaymentEmployee
+6
+Adolph Coors
+2550.5
+FixedPaymentEmployee
+1
+Jack Daniel
+2550.5
+FixedPaymentEmployee
+4
+Peter Smirnoff
+2550.5
+HourlyWageEmployee
+8
+Joseph Seagram
+14.1
